@@ -1,0 +1,6 @@
+{
+  "name": "Soft Jobs",
+  "description": "Plataforma para desarrolladores juniors con autenticación y autorización JWT, registro de usuarios, contraseñas encriptadas y consulta de perfil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
